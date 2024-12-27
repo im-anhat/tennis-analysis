@@ -16,7 +16,7 @@ The system detects players and tennis balls using YOLO and extracts court keypoi
 
 Here is a screenshot from one of the output videos:
 
-![Screenshot](output_videos/screenshot.jpeg)
+<img width="1005" alt="image" src="https://github.com/user-attachments/assets/ac896515-8640-4d74-9026-2b3536d8c4c8" />
 
 ---
 
@@ -50,14 +50,3 @@ Make sure you have the following installed:
 - Pandas
 - NumPy
 - OpenCV
-
-### Installation:
-
-```bash
-# Clone the repository
-git clone https://github.com/your-repo/tennis-analysis.git
-cd tennis-analysis
-
-# Install dependencies
-pip install -r requirements.txt
-```
