@@ -1,0 +1,7 @@
+# Ignore all .pt and .pth files
+*.pt
+*.pth
+.DS_Store
+
+# Ignore the training/data folder
+training/data/
